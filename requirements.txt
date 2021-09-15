@@ -3,4 +3,4 @@ pathlib
 numpy
 PyQt5
 
-sys
+
