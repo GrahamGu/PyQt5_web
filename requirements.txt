@@ -2,3 +2,7 @@ ipywidgets
 pathlib
 numpy
 PyQt5
+PyQt5.QtWidgets
+PyQt5.QtMultimedia
+PyQt5.QtMultimediaWidgets
+sys
